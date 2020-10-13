@@ -224,4 +224,8 @@ a {
     display: flex;
     justify-content: center;
     align-items: center;
+    transition: tranform: .2s;
+}
+.insp:hover{
+    transform: scale(0.9s);
 }
